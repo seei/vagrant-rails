@@ -12,7 +12,7 @@
 	
 ### Start Rails server
 
-	guest $ bundle exec rails s
+	guest $ rails s
 	
 ### Open in Browser
 
